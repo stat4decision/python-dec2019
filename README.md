@@ -1,6 +1,6 @@
 # Projet
 
-Données et notebooks pour la formation python pour la data science de @stat4decision animée par @EJakobowicz (septembre 2019).
+Données et notebooks pour la formation python pour la data science de @stat4decision animée par @EJakobowicz (décembre 2019).
 
 ## Comment utiliser les contenus ?
 
@@ -11,7 +11,7 @@ Pour utiliser les notebooks, veuillez installer Anaconda pour python 3.
 Autres solutions :
 
 - utiliser Binder
-- utiliser [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stat4decision/python-data-science-juin-2019)
+- utiliser [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/stat4decision/python-dec2020)
 
 
 ## Organisation des notebooks
